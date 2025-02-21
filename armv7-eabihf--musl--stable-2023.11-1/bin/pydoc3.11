@@ -1,0 +1,5 @@
+#!/builds/buildroot.org/toolchains-builder/build/armv7-eabihf--musl--stable-2023.11-1/bin/python3.11
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

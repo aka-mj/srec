@@ -1,0 +1,2 @@
+add-auto-load-safe-path /builds/buildroot.org/toolchains-builder/build/armv7-eabihf--musl--stable-2023.11-1/arm-buildroot-linux-musleabihf/sysroot
+set sysroot /builds/buildroot.org/toolchains-builder/build/armv7-eabihf--musl--stable-2023.11-1/arm-buildroot-linux-musleabihf/sysroot
